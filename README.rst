@@ -9,9 +9,11 @@ Logo for the Acelsior IPSC team
 Reproduce
 =========
 Use golden ratio as follows
-.. image:: ./acelsior_logo_with_golden_ratio_guide.png
+
+.. image:: ./acelsior_logo_with_golden_ratio_guides.png
    :width: 256
-	 :alt: acelsior_logo_with_golden_ratio_guide.png
+	 :alt: acelsior_logo_with_golden_ratio_guides.png
+
 Note: Small circle below the small flame is not part of the golden ratio
 circles. It's radius is the second largest square divided by 1.618 four times.
 
